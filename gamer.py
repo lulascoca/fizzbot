@@ -3,8 +3,8 @@
 import requests
 import json
 
-# just a separator to keep stuff organized
-separator = "--------------------------------------------------------------"
+# just a separator to keep stuff organized (not really '-')
+separator = "--------------------------------------------------------------------------------------------------------------------"
 
 base_domain = "https://api.noopschallenge.com"
 
