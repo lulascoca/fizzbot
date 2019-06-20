@@ -1,7 +1,7 @@
+mine completes in 7 secs apparently btw
 ![Meet the Fizzbot](https://user-images.githubusercontent.com/212941/59296232-4da28880-8c3a-11e9-8ce8-05eef6210121.png)
 
 # Fizzbot
-
 
 Dear candidate.
 
@@ -11,7 +11,7 @@ Here at Noops Headquarters, we receive a lot of applications for positions in ou
 
 Unfortunately we are very busy cooking up new challenges, so we cannot personally repond to each application.
 
-## API 
+## API
 
 Get started at `https://api.noopschallenge.com/fizzbot` &ndash; but do it quickly!
 
